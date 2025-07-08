@@ -12,8 +12,5 @@ Smart Weigh &amp; Log System is a compact embedded solution using a load cell an
 - Price calculation
 - Logging support
 
-## Image
-![Load Cell Setup](loadcell_image.jpg)
-
 ## Code
 Code available in `loadcell.ino`
